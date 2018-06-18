@@ -1,2 +1,3 @@
 # hello_world
-first repository
+Hi Friends!
+Manik here, I have just started learing python.
